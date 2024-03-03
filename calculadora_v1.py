@@ -64,6 +64,5 @@ elif operacao_usuario == 4:
         print("Divisão por zero, favor reiniciar a calculadora!")
     else:
         print("\n RESULTADO: ", num1, "/", num2, "=", divisao(num1, num2))
-
 else:
     print("\n RESULTADO: ", num1, "**", num2, "=", potenciacao(num1, num2))
