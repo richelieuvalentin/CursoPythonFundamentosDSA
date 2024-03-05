@@ -1,4 +1,4 @@
-
+# A variavel musica recebe a docstring com a letra da música "Tempo Perdido"
 musica = '''
 Todos os dias quando acordo
 Não tenho mais
