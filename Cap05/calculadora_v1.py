@@ -17,7 +17,7 @@ operacoes = {
     5: "Potenciação",
 }
 
-# Laço for para percorer o dicionário e printar as chaves e valores
+# Laço for para percorer o dicionário e imprimir as chaves e valores
 for k, v in dict.items(operacoes):
     print(k, "-", v)
 
